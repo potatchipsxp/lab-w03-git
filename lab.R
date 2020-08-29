@@ -1,8 +1,9 @@
 #' ---
 #' title: "Data Science Methods, Lab for Week 2: Git"
-#' author: "Dan Hicks"
-#' email: hicks.daniel.j@gmail.com
+#' author: "Your Name"
+#' email: Your Email
 #' output:
+#'   pdf_document: default
 #'   html_document:
 #'     toc: true
 #' ---
