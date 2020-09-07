@@ -2,6 +2,7 @@
 #' title: "Data Science Methods, Lab for Week 2: Git"
 #' author: "Your Name"
 #' email: Your Email
+#' colorlinks: true
 #' output:
 #'   pdf_document: default
 #'   html_document:
