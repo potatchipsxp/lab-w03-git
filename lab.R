@@ -9,6 +9,9 @@
 #'     toc: true
 #' ---
 
+
+#I declare myself lord of this lab
+
 #+ setup, echo=FALSE
 ## NB You probably don't want to edit anything here
 library(knitr)
